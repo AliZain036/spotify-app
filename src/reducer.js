@@ -3,10 +3,6 @@ export const initialState = {
     playlists: [],
     playing: false,
     item: null,
-
-    // REMOVE after finished developing... we don't want to be authorized already
-    // token: "BQDeX0MdrNNMRo8AJcZLiBgzQRqJlvdt185RfF9mOxFzXR1ZagRFpIUtN3KxJRxFvmbwjtzMAbn6cs88yTM5uJB-7W80qXpGzC40dJxf8IhidM9vmJp_5hKURzAhrzB_r_ztOH-qx2otuSyVIARV0wP2tis8TJVyJQr2WN3RBiWazTIl"
-
 };
 
 // action down here is how we manipulate what the datalayer looks like and state is what does the data layer look like
